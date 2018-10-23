@@ -1,0 +1,7 @@
+C:\Users\Max\source\repos\circleLab\circleLab\bin\Debug\circleLab.exe.config
+C:\Users\Max\source\repos\circleLab\circleLab\bin\Debug\circleLab.exe
+C:\Users\Max\source\repos\circleLab\circleLab\bin\Debug\circleLab.pdb
+C:\Users\Max\source\repos\circleLab\circleLab\obj\Debug\circleLab.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\circleLab\circleLab\obj\Debug\circleLab.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\circleLab\circleLab\obj\Debug\circleLab.exe
+C:\Users\Max\source\repos\circleLab\circleLab\obj\Debug\circleLab.pdb
